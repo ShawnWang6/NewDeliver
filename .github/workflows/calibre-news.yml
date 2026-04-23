@@ -39,6 +39,7 @@ jobs:
             variable=${variables[$key]}
             [ -n "$variable" ] || absences+=($key)
           done
+          echo "From: $from Port：$port"
           if [ ${#absences[@]} -gt 0 ]; then
             variable_keys=$(echo ${absences[@]/%/,})
             echo "Missing variable(s): ${variable_keys/%,/}"; exit 1
