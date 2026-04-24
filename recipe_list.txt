@@ -1,2 +1,1 @@
-OpenAIBlog:https://openai.com/news/rss.xml
-HackerNewsOpenClaw:https://hnrss.org/newest?q=OpenClaw
+联合早报:https://plink.anyfeeder.com/zaobao/realtime/china
