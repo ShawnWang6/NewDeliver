@@ -1,1 +1,1 @@
-BBC中文网:https://rsshub.app/bbc/chinese
+OpenAIBlog:https://openai.com/news/rss.xml
