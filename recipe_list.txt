@@ -1,4 +1,1 @@
 BBC中文网:http://feeds.bbci.co.uk/chinese/rss.xml
-国内:http://feeds.bbci.co.uk/chinese/rss.xml?category=china
-国际:http://feeds.bbci.co.uk/chinese/rss.xml?category=world
-科技:http://feeds.bbci.co.uk/chinese/rss.xml?category=technology
