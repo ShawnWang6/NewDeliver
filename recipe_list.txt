@@ -1,1 +1,2 @@
 OpenAIBlog:https://openai.com/news/rss.xml
+HackerNewsOpenClaw:https://hnrss.org/newest?q=OpenClaw
