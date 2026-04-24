@@ -1,1 +1,1 @@
-ftchinese:http://www.ftchinese.com/rss/feed
+FT中文网:http://feeds.feedburner.com/ftchina
